@@ -1,5 +1,3 @@
-# Projeto Android
-
-Construindo um blog de curiosidades sobre tecnologia *Responsivo*.
-
-Tecnologias utilizadas: HTML5 ; CSS3
+<p style="text-align: center">
+    <img alt="projeto rocketseat" src="imagens/desk.png" width="100%">
+</p>
